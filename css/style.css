@@ -29,4 +29,5 @@ ul li:hover{
     background-color: chartreuse;
     font-style: italic;
     font-size: 100px;
+    border-radius: 40px;
 }
